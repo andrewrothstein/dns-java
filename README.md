@@ -1,3 +1,7 @@
+# DEPRECATION NOTICE
+
+This repo is no longer actively maintained. While it should continue to work and there are no major known bugs, we will not be improving dns-java or releasing new versions.
+
 [![Circle CI](https://circleci.com/gh/spotify/dns-java.svg?style=svg)](https://circleci.com/gh/spotify/dns-java)
 [![Coverage Status](https://coveralls.io/repos/spotify/dns-java/badge.svg?branch=master&service=github)](https://coveralls.io/github/spotify/dns-java?branch=master)
 [![Maven Central](https://img.shields.io/maven-central/v/com.spotify/dns.svg)](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.spotify%22%20dns*)
